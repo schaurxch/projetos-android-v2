@@ -1,5 +1,10 @@
 # Atividade 02 - Programação de Dispositivos Móveis
 
+ALUNO: PEDRO SCHAURICH MAIA
+RA: 24026011
+
+---
+
 Este repositório contém os projetos desenvolvidos como parte da Atividade 02 da disciplina de Programação de Dispositivos Móveis, ministrada pelo professor Vinicius Heltai. Abaixo estão os resumos de cada aplicativo proposto.
 
 ---
